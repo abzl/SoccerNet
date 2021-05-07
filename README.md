@@ -22,10 +22,17 @@ MVP
 ---------------------------
 * Have a working and interactive react app.
 * Have six rendered components.
-* Use axios to consume data from airtable (get and post)
+* Use axios to consume data from airtable (get and post).
 
 Post MVP
 ---------------------------
 * Add more teams.
 * Allow user to register for an account. 
 * Connectivity with social media.
+
+SWOT Analysis
+---------------------------
+Strengths:
+Weaknesses:
+Opportunities:
+Threats:
