@@ -17,6 +17,10 @@ Component Hierarchy
 
 <img width="858" alt="Screen Shot 2021-05-07 at 02 32 44" src="https://user-images.githubusercontent.com/82680108/117407504-a5a4a100-aedc-11eb-85e6-5367d60b2e64.png">
 
+API and Data sample
+---------------------------
+https://airtable.com/tblWcNeScouNtU5Qh/viwu6OXSqZCOYrrkU?blocks=hide
+
 
 MVP
 ---------------------------
