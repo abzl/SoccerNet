@@ -40,7 +40,7 @@ Timeframes
 
 * Proposal and getting project approved = 3hrs.
 
-* Data collection (team, score, videos) = 1hr.
+* Data collection (teams, scores, videos) = 1hr.
 
 * Getting Airtable ready (api with app content) = 2hrs.
 
@@ -62,7 +62,7 @@ Timeframes
 
 * App. testing and debug = 4hrs
 
-* CSS + Grid and Media QUery (final touches) = 3hrs
+* CSS + Grid and Media Query (final touches) = 3hrs
 
 * Post MVP research = 4hrs
 
@@ -70,7 +70,7 @@ Total = 36hrs
 
 SWOT Analysis
 ---------------------------
-* Strengths: I have good understanding of what i need in this application. 
+* Strengths: I have good understanding of what I want in this application. 
 * Weaknesses: Implementing the route component.
-* Opportunities: A lot of practice and assistance from instructors.
+* Opportunities: A lot of practice, review and implementation of all tecnologies learned recently.
 * Threats: Whenever I get stuck with an issue or error, I spent too much time trying to find a solution. I need to learn when to stop and when I need to look for help.
