@@ -10,3 +10,4 @@ The wireframes below shows a model of how the website looks on the web and mobil
 
 <img width="1026" alt="desktsionop-ver" src="https://user-images.githubusercontent.com/82680108/117401779-30809e00-aed3-11eb-8a4a-cb12836be77f.png">
 
+<img width="1026" alt="mobile-version" src="https://user-images.githubusercontent.com/82680108/117401868-573ed480-aed3-11eb-9170-fdcb48a1da4a.png">
