@@ -22,7 +22,11 @@ MVP
 ---------------------------
 * Have a working and interactive react app.
 * Have six rendered components.
+* Employ React Router and class React components.
 * Use axios to consume data from airtable (get and post).
+* Utilize Axios to Post and create new data on Airtable.
+* Styled with CSS, Flexboc or Grid.
+* Implememnt responsive design on Desktop and Mobile devices.
 
 Post MVP
 ---------------------------
@@ -66,7 +70,7 @@ Total = 36hrs
 
 SWOT Analysis
 ---------------------------
-Strengths:
-Weaknesses:
-Opportunities:
-Threats:
+* Strengths: I have good understanding of what i need in this application. 
+* Weaknesses: Implementing the route component.
+* Opportunities: A lot of practice and assistance from instructors.
+* Threats: Whenever I get stuck with an issue or error, I spent too much time trying to find a solution. I need to learn when to stop and when I need to look for help.
