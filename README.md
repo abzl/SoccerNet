@@ -8,7 +8,6 @@ Wireframes
 ---------------------------
 The wireframes below shows a model of how the website looks on the web and mobile phones.  
 
-<img width="1034" alt="newvresion-desktop" src="https://user-images.githubusercontent.com/82680108/117473373-e544aa80-af27-11eb-8bce-ff7b2c76b876.png">
 
 
 
