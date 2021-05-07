@@ -10,6 +10,7 @@ The wireframes below shows a model of how the website looks on the web and mobil
 
 <img width="1034" alt="newvresion-desktop" src="https://user-images.githubusercontent.com/82680108/117473509-0f966800-af28-11eb-93ee-60c974fc1ee9.png">
 
+<img width="1027" alt="newversion-mobile" src="https://user-images.githubusercontent.com/82680108/117473657-30f75400-af28-11eb-9a47-df79f2a9a301.png">
 
 
 Component Hierarchy
