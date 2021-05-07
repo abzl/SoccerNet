@@ -16,3 +16,16 @@ Component Hierarchy
 --------------------------
 
 <img width="858" alt="Screen Shot 2021-05-07 at 02 32 44" src="https://user-images.githubusercontent.com/82680108/117407504-a5a4a100-aedc-11eb-85e6-5367d60b2e64.png">
+
+
+MVP
+---------------------------
+* Have a working and interactive react app.
+* Have six rendered components.
+* Use axios to consume data from airtable (get and post)
+
+Post MVP
+---------------------------
+* Add more teams.
+* Allow user to register for an account. 
+* Connectivity with social media.
