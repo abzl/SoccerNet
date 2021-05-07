@@ -21,6 +21,8 @@ API and Data sample
 ---------------------------
 https://airtable.com/tblWcNeScouNtU5Qh/viwu6OXSqZCOYrrkU?blocks=hide
 
+<img width="625" alt="api sample" src="https://user-images.githubusercontent.com/82680108/117471556-f987a800-af25-11eb-9f93-a56fbcac7f95.png">
+
 
 MVP
 ---------------------------
