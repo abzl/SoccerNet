@@ -25,7 +25,8 @@ The wireframes below shows a model of how the website looks on the web and mobil
 Component Hierarchy
 --------------------------
 
-<img width="858" alt="Screen Shot 2021-05-07 at 02 32 44" src="https://user-images.githubusercontent.com/82680108/117407504-a5a4a100-aedc-11eb-85e6-5367d60b2e64.png">
+<img width="851" alt="p2-diagram" src="https://user-images.githubusercontent.com/82680108/117503312-c6a5da00-af4e-11eb-8143-2f9f4aa38dcd.png">
+
 
 API and Data sample
 ---------------------------
