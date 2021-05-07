@@ -8,9 +8,18 @@ Wireframes
 ---------------------------
 The wireframes below shows a model of how the website looks on the web and mobile phones.  
 
-<img width="1034" alt="newvresion-desktop" src="https://user-images.githubusercontent.com/82680108/117473509-0f966800-af28-11eb-93ee-60c974fc1ee9.png">
+<img width="1032" alt="desktop-page1" src="https://user-images.githubusercontent.com/82680108/117501165-b0e2e580-af4b-11eb-8998-d45b89864038.png">
 
-<img width="1027" alt="newversion-mobile" src="https://user-images.githubusercontent.com/82680108/117473657-30f75400-af28-11eb-9a47-df79f2a9a301.png">
+<img width="1026" alt="desktop-page2" src="https://user-images.githubusercontent.com/82680108/117501167-b17b7c00-af4b-11eb-8b12-633acf26ebae.png">
+
+<img width="1030" alt="desktop-page3" src="https://user-images.githubusercontent.com/82680108/117501168-b17b7c00-af4b-11eb-820e-d460dfa35029.png">
+
+<img width="1034" alt="mobile-page1" src="https://user-images.githubusercontent.com/82680108/117501170-b17b7c00-af4b-11eb-9f41-80daadb5b383.png">
+
+<img width="1028" alt="mobile-page2" src="https://user-images.githubusercontent.com/82680108/117501172-b2141280-af4b-11eb-9f92-839d08d09c3a.png">
+
+<img width="1029" alt="mobile-page3" src="https://user-images.githubusercontent.com/82680108/117501173-b2141280-af4b-11eb-97fc-48c4ba55d9a7.png">
+
 
 
 Component Hierarchy
