@@ -29,6 +29,40 @@ Post MVP
 * Add more teams.
 * Allow user to register for an account. 
 * Connectivity with social media.
+* Inlcude female teams.
+
+Timeframes
+----------------------------
+
+* Proposal and getting project approved = 3hrs.
+
+* Data collection (team, score, videos) = 1hr.
+
+* Getting Airtable ready (api with app content) = 2hrs.
+
+* JS (connect to the API, extract data) + Research = 4hrs
+
+* Styling CSS + Grid (make sure items are align) = 2hr
+
+* JS(add eventListeners and functionality) = 4hrs
+
+* CSS (colors and other details)= 1hr
+
+* HTML (look for details to adjust) = 2hrs
+
+* JS (lean your code and test) = 3hrs
+
+* CSS media queries + research = 3hrs
+
+* HTML = 1hr
+
+* App. testing and debug = 4hrs
+
+* CSS + Grid and Media QUery (final touches) = 3hrs
+
+* Post MVP research = 4hrs
+
+Total = 36hrs
 
 SWOT Analysis
 ---------------------------
