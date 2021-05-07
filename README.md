@@ -46,9 +46,9 @@ Post MVP
 Project Schedule
 ---------------------------
 * Fri, May 7 Proposal Approval.
-* Mon, May 10 Set Airplate with teams data.
-* Tue, May 11 Components creation. 
-* Wed, May 12 API - MVP
+* Mon, May 10 Set Airplate with teams data and components creation.
+* Tue, May 11 API (render data into components)
+* Wed, May 12 CSS and Grid. (We should reach MVP Wed. night)
 * Thu, May 13 CSS + Grid + Media Query. - MVP
 * Fri, May 14 Presentations.
 
