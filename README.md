@@ -43,6 +43,15 @@ Post MVP
 * Include female teams.
 * Spanish Version.
 
+Project Schedule
+---------------------------
+* Fri, May 7 Proposal Approval.
+* Mon, May 10 Set Airplate with teams data.
+* Tue, May 11 Components creation. 
+* Wed, May 12 API - MVP
+* Thu, May 13 CSS + Grid + Media Query. - MVP
+* Fri, May 14 Presentations.
+
 Timeframes
 ----------------------------
 
@@ -65,8 +74,6 @@ Timeframes
 * JSX (lean your code and test) = 3hrs
 
 * CSS media queries + research = 3hrs
-
-* HTML = 1hr
 
 * App. testing and debug = 4hrs
 
