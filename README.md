@@ -31,7 +31,7 @@ API and Data sample
 ---------------------------
 https://airtable.com/tblWcNeScouNtU5Qh/viwu6OXSqZCOYrrkU?blocks=hide
 
-<img width="636" alt="api-data" src="https://user-images.githubusercontent.com/82680108/117501674-5f872600-af4c-11eb-97b3-47f08debb58b.png">
+<img width="619" alt="api-data" src="https://user-images.githubusercontent.com/82680108/117501898-b55bce00-af4c-11eb-9ccc-be38ccb3d7ff.png">
 
 
 MVP
