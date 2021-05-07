@@ -37,9 +37,10 @@ MVP
 Post MVP
 ---------------------------
 * Add more teams.
-* Allow user to register for an account. 
+* Allow users to register for an account. 
 * Connectivity with social media.
-* Inlcude female teams.
+* Include female teams.
+* Spanish Version.
 
 Timeframes
 ----------------------------
@@ -48,19 +49,19 @@ Timeframes
 
 * Data collection (teams, scores, videos) = 1hr.
 
-* Getting Airtable ready (api with app content) = 2hrs.
+* Getting Airtable ready (api with app content) = 3hrs.
 
-* JS (connect to the API, extract data) + Research = 4hrs
+* JSX (connect to the API, extract data) + Research = 4hrs
 
 * Styling CSS + Grid (make sure items are align) = 2hr
 
-* JS(add eventListeners and functionality) = 4hrs
+* JSX (add Components and eventListeners) = 4hrs
 
 * CSS (colors and other details)= 1hr
 
 * HTML (look for details to adjust) = 2hrs
 
-* JS (lean your code and test) = 3hrs
+* JSX (lean your code and test) = 3hrs
 
 * CSS media queries + research = 3hrs
 
@@ -72,7 +73,7 @@ Timeframes
 
 * Post MVP research = 4hrs
 
-Total = 36hrs
+Total = 38hrs
 
 SWOT Analysis
 ---------------------------
