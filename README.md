@@ -7,3 +7,6 @@ SoccerNet is a website builded with React and Airtable that allows soccer fans t
 Wireframes
 ---------------------------
 The wireframes below shows a model of how the website looks on the web and mobile phones.  
+
+<img width="1026" alt="desktsionop-ver" src="https://user-images.githubusercontent.com/82680108/117401779-30809e00-aed3-11eb-8a4a-cb12836be77f.png">
+
