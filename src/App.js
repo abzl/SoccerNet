@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { Route } from "react-router-dom";
-import Match from "./components/Match";
-import Form from "./components/Stat"; 
 import Nav from "./components/Nav";
-import { baseURL, config } from "./services"
+import Footer from "./components/Footer";
+import { baseURL, config } from "./services";
 import './App.css';
+
 
 function App() {
   const [matches, setMatches] = useState([]);
@@ -13,21 +13,21 @@ function App() {
 
   useEffect(() => {
     const fetchMatches = async () => {
-    const resp = await axios.get(baseURL, config);
+      
+      const resp = await axios.get(baseURL, config);
       setMatches(resp.data.records);
     }
-    fetchMatches(); 
-  }, [])
+    fetchMatches();
+  }, [toggleFetch]);
 
   return (
     <div className="App">
-      <h1>SoccerNet</h1>
       <Nav />
+      <h1>SoccerNet</h1>
       <Route exact path="/">
         <main>
           {matches.map((match) => (
-            <Match match={match}
-              setToggleFetch={setToggleFetch} />
+            <p>{match.fields.date}</p>
           ))}
         </main>
       </Route>
