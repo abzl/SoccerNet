@@ -5,12 +5,12 @@ function Nav() {
   return (
     <nav>
       <Link to="/">Home</Link>
-      <Link to="/">Stats</Link>
-      <Link to="/">Schedule</Link>
+      <Link to="/stats">Stats</Link>
+      <Link to="/schedule">Schedule</Link>
+      <Link to="/vote">Vote</Link>
+
     </nav>
   )
 }
-
-
 
 export default Nav;

@@ -1,20 +1,27 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { Route } from "react-router-dom";
+import { Link, Route } from "react-router-dom";
 import Match from "./components/Match";
-import Form from "./components/Stat"; 
+import Stat from "./components/Stat"; 
 import Nav from "./components/Nav";
 import { baseURL, config } from "./services"
+import Footer from "./components/Footer";
+import Vote from "./components/Vote";
+import Form from "./components/Form";
 import './App.css';
 
 function App() {
   const [matches, setMatches] = useState([]);
   const [toggleFetch, setToggleFetch] = useState(false);
+  const [posts, setPosts] = useState([]); 
 
   useEffect(() => {
     const fetchMatches = async () => {
-    const resp = await axios.get(baseURL, config);
-      setMatches(resp.data.records);
+      const resp = await axios.get(`${baseURL}/matches`, config);
+      const sortMatches = resp.data.records.sort((a,b) => new Date(b.fields.date)-new Date(a.fields.date))
+      setMatches(sortMatches);
+      const voteResp = await axios.get('`${baseURL}/matches`, config)');
+      setPosts(voteResp.data.records)
     }
     fetchMatches(); 
   }, [])
@@ -32,11 +39,17 @@ function App() {
         </main>
       </Route>
       <Route path="/new">
-        <h3>text2</h3>
+      <Form setToggleFetch={setToggleFetch} />
       </Route>
-      <Route path="/edit/:id">
-        <h3>text3</h3>
+      <Route path="/votes">
+      <div className="vote-container">
+      {posts.map((post) => (
+        <Vote vote={post} />
+      ))}
+    </div>
       </Route>
+      <Form />
+      <Footer />
     </div>
   );
 }
