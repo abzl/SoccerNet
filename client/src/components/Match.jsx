@@ -1,11 +1,13 @@
+import react from "react";
+
 function Match(props) {
 
-  const { date, location, match, logo, logo2,logo3, logo4 } = props.match.fields;
-  console.log(logo);
+  const { date, location, match, logo, logo2 } = props.match.fields;
+
   return (
     <div>
-      <img src={logo} alt="" />
-      <img src={logo2} alt="" />
+      <img src={logo} alt="club-logo" />
+      <img src={logo2} alt="club-logo" />
 
       <h4>{match}</h4>
       <h5>{date}</h5>

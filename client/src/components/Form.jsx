@@ -12,7 +12,6 @@ function Form(props) {
     const newPost = {
       author,
       content,
-    // id,
     };
 
     await axios.post('https://api.airtable.com/v0/appsJCXzqaQeG7qQ1/votes', { fields: newPost }, config);
@@ -24,20 +23,23 @@ function Form(props) {
   
   return (
     <div>
-<h2>Champions League Final</h2>
+      <h2>Champions League Final</h2>
       <h3>Man. City vs Chelsea</h3>
+      <h5>Sat. May 29th</h5>
       <h4>Leave your  comments</h4>
-   
+  
       <form onSubmit={handleSubmit}>
-    
-
-          <label htmlFor="content">Content:</label>
-          <input type="text" id="content" value={content} onChange={(e) => setContent(e.target.value)} />
-          <label htmlFor="author">Author:</label>
-          <input type="text" id="author" value={author} onChange={(e) => setAuthor(e.target.value)} />
-          <button type="submit">Vote!</button>
+        <div className="com-box">
+          <label htmlFor="comment"></label>
+          <input type="text" id="comment" placeholder="Your name..."value={content} onChange={(e) => setContent(e.target.value)} />
+        </div>
+        <div className="aut-box">
+          <label htmlFor="author"></label>
+          <input type="text" id="name" placeholder="Your comment here..." value={author} onChange={(e) => setAuthor(e.target.value)} />
+        </div>
+        <button type="submit">Submit!</button>
       </form>
-      </div>
+    </div>
     
   )
 }
